@@ -1,0 +1,13 @@
+name = "DemoPackageBXW"
+uuid = "ea9540f2-3b9b-47d9-989c-45cf3cdf6d8b"
+authors = ["binxu.wang <binxu.wang@wustl.edu> and contributors"]
+version = "0.1.0"
+
+[compat]
+julia = "1"
+
+[extras]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[targets]
+test = ["Test"]
